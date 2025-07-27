@@ -2,10 +2,10 @@
 __pycache__/
 *.py[codz]
 *$py.class
-
+mlruns/
 # C extensions
 *.so
-
+demo.ipynb
 # Distribution / packaging
 .Python
 build/
